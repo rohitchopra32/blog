@@ -1,0 +1,1172 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"query",
+				"queryset_list"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"slu",
+				"slugify"
+			],
+			[
+				"new",
+				"new_slug"
+			],
+			[
+				"pre_sav",
+				"pre_save_post_receiver"
+			],
+			[
+				"page",
+				"page_request_var"
+			],
+			[
+				"object",
+				"object_list"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"post",
+				"post_home"
+			],
+			[
+				"post_",
+				"post_list"
+			],
+			[
+				"comment",
+				"commentadmin"
+			],
+			[
+				"list",
+				"list_filter"
+			],
+			[
+				"List",
+				"list_display"
+			],
+			[
+				"Auto",
+				"auto_now_add"
+			],
+			[
+				"Aut",
+				"auto_now_add"
+			],
+			[
+				"auto",
+				"auto_now"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ro",
+				"rotateX()"
+			],
+			[
+				"translate",
+				"translateZ()"
+			],
+			[
+				"tra",
+				"translateZ()"
+			],
+			[
+				"trans",
+				"transform-origin"
+			],
+			[
+				"backgroung",
+				"background-image"
+			],
+			[
+				"sh",
+				"box-shadow"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"trs",
+				"transition"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"r",
+				"rgba"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"ima",
+				"background-image"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pl",
+				"player2"
+			],
+			[
+				"pla",
+				"player2"
+			],
+			[
+				"o",
+				"o"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"pal",
+				"player1"
+			],
+			[
+				"palyer",
+				"player1"
+			],
+			[
+				"win",
+				"winmoves"
+			],
+			[
+				"h",
+				"innerHTML"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"onov",
+				"onmouseover	Attr"
+			],
+			[
+				"bo",
+				"border-collapse"
+			],
+			[
+				"text-deco",
+				"text-decoration-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"a",
+				"rgba()"
+			],
+			[
+				"tes",
+				"text-decoration-style"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"dec",
+				"text-decoration"
+			],
+			[
+				"CONTENT",
+				"align-content"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"info",
+				"infowindow"
+			],
+			[
+				"pos",
+				"pos"
+			],
+			[
+				"navba",
+				"navbar-header"
+			],
+			[
+				"nav",
+				"navbar-header"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"but",
+				"button	Tag"
+			],
+			[
+				"bt",
+				"button	Tag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"siz",
+				"resize"
+			],
+			[
+				"mR",
+				"margin-bottom"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"tr",
+				"text-decoration"
+			],
+			[
+				"mat",
+				"matrix1"
+			],
+			[
+				"colum",
+				"columns"
+			],
+			[
+				"form",
+				"form1"
+			],
+			[
+				"P",
+				"password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"t",
+				"True"
+			],
+			[
+				"gender",
+				"gender"
+			],
+			[
+				"ch",
+				"CharField"
+			],
+			[
+				"c",
+				"gender_choices"
+			],
+			[
+				"M",
+				"max_length"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"static_i",
+				"static_in_env"
+			],
+			[
+				"S",
+				"STATIC_URL"
+			],
+			[
+				"E",
+				"EMAIL_HOST"
+			],
+			[
+				"com",
+				"com"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"Si",
+				"SignUpForm"
+			],
+			[
+				"Sign",
+				"SignUpAdmin"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"aut",
+				"auto_now"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/base.html",
+			"settings":
+			{
+				"buffer_size": 2504,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/post_detail.html",
+			"settings":
+			{
+				"buffer_size": 4323,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "post/admin.py",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/post_form.html",
+			"settings":
+			{
+				"buffer_size": 1589,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "blog/settings.py",
+			"settings":
+			{
+				"buffer_size": 3401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "post/views.py",
+			"settings":
+			{
+				"buffer_size": 2068,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "post/models.py",
+			"settings":
+			{
+				"buffer_size": 732,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "post/urls.py",
+			"settings":
+			{
+				"buffer_size": 420,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "Snippet: html",
+		"selected_items":
+		[
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib;"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rohit/Desktop/blog",
+		"/C/Users/rohit/Desktop/blog/blog",
+		"/C/Users/rohit/Desktop/blog/media_cdn",
+		"/C/Users/rohit/Desktop/blog/post",
+		"/C/Users/rohit/Desktop/blog/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/rohit/Desktop/blog/blog/urls.py",
+		"/C/Users/rohit/Downloads/Compressed/try-django-19-master/src/posts/models.py",
+		"/C/Users/rohit/Downloads/Compressed/try-django-19-master/src/posts/urls.py",
+		"/C/Users/rohit/Desktop/blog/post/urls.py",
+		"/C/Users/rohit/Desktop/blog/post/forms.py",
+		"/C/Users/rohit/Desktop/blog/blog/settings.py",
+		"/C/Users/rohit/Desktop/blog/post/migrations/0006_auto_20160729_2237.py",
+		"/C/Users/rohit/Desktop/blog/post/static/css/blog.css",
+		"/C/Users/rohit/Desktop/blog/templates/post_detail.html",
+		"/C/Users/rohit/Desktop/blog/templates/post_form.html",
+		"/C/Users/rohit/Desktop/blog/post/views.py",
+		"/C/Users/rohit/Desktop/blog/post/models.py",
+		"/C/Users/rohit/Downloads/python/blog/templates/base.html",
+		"/C/Users/rohit/Downloads/python/blog/templates/post.html",
+		"/C/Users/rohit/Downloads/python/blog/templates/blog.html",
+		"/C/Users/rohit/Desktop/blog/post/admin.py",
+		"/C/Users/rohit/Desktop/style.css",
+		"/C/Users/rohit/Desktop/carosel.html",
+		"/C/Python34/Scripts/django-admin.py",
+		"/C/Users/rohit/Desktop/project.html",
+		"/C/Users/rohit/Desktop/product_details.html",
+		"/C/Users/rohit/Desktop/1/index.php",
+		"/C/Users/rohit/Desktop/InFocus M680 16 GB Silver _ Buy InFocus M680 Mobile Phone Online at Best Price in India _ Flipkart.com.html",
+		"/C/Users/rohit/Desktop/logo/index.html",
+		"/C/Users/rohit/Desktop/logo/css/style.css",
+		"/C/Users/rohit/Desktop/side bar.html",
+		"/H/projects/side bar.html",
+		"/H/projects/e-store/index.php",
+		"/C/Users/rohit/Desktop/New Folder (3)/js/index.js",
+		"/C/Users/rohit/Desktop/New Folder (3)/index.html",
+		"/C/Users/rohit/Desktop/1/home.php",
+		"/C/Users/rohit/Desktop/bootstrap-3.3.6-dist/css/bootstrap.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/rohit/Desktop/tic tac toe ai/Assignment_2_solution.html",
+		"/C/Users/rohit/Desktop/tic tac toe/offline/tic tac toe pc.html",
+		"/C/wamp64/wampmanager.conf",
+		"/C/Users/rohit/Desktop/e-store/index.html",
+		"/C/Users/rohit/Desktop/e-store/css/style.css",
+		"/C/Users/rohit/Desktop/e-store/aboutus.html",
+		"/C/Users/rohit/Desktop/tic tac toe/script1.js",
+		"/C/Users/rohit/Desktop/tic tac toe/script.js",
+		"/C/Users/rohit/Desktop/js/frontend-nanodegree-resume/index.html",
+		"/C/Users/rohit/Desktop/tic tac toe/tic tac toe.html",
+		"/C/Users/rohit/Desktop/tic tac toe/tic tac toe pc.html",
+		"/C/Users/rohit/Desktop/1/index.css",
+		"/C/Users/rohit/Desktop/Assignment_1_solution/script.js",
+		"/C/Users/rohit/Desktop/Assignment_1_solution/Assignment_1_solution.html",
+		"/C/Users/rohit/Desktop/Fixed Top Navbar Example for Bootstrap.html",
+		"/C/Users/rohit/Desktop/web/css/style.css",
+		"/C/Users/rohit/Desktop/web/index.html",
+		"/C/Users/rohit/Desktop/biruang-web/New Folder/web/css/style.css",
+		"/C/Users/rohit/Desktop/wearmates/Home page.html",
+		"/C/Users/rohit/Desktop/biruang-web/New Folder/web/index.html",
+		"/C/Users/rohit/Desktop/New Folder (2)/index.html",
+		"/C/Users/rohit/Desktop/personal/intex.sublime-project",
+		"/C/Users/rohit/Desktop/personal/index.html",
+		"/C/Users/rohit/Desktop/personal/css/style.css",
+		"/C/Users/rohit/Desktop/personal/css/bootstrap.css",
+		"/C/Users/rohit/Desktop/portolio/framework/css/main.css",
+		"/C/Users/rohit/Desktop/personal/css/bootstrap.min.css",
+		"/C/Users/rohit/Desktop/personal/style.css",
+		"/C/Users/rohit/Desktop/personal/java.html",
+		"/C/Users/rohit/Desktop/personal/js.js",
+		"/C/Users/rohit/Desktop/abc.html",
+		"/C/Users/rohit/Desktop/personal/o.jpg",
+		"/C/Users/rohit/Desktop/personal/intex.html",
+		"/C/Users/rohit/Desktop/portolio/test.html",
+		"/C/Users/rohit/Desktop/portolio/toplist/style.css",
+		"/C/Users/rohit/Desktop/portolio/toplist/intex.html",
+		"/C/Users/rohit/Desktop/movball.java",
+		"/C/Users/rohit/Desktop/web.html",
+		"/C/Users/rohit/Desktop/fifo2.cpp",
+		"/C/Users/rohit/Desktop/fifo.cpp",
+		"/C/Users/rohit/Desktop/sf/web/index.html",
+		"/H/blues/js/npm.js",
+		"/H/blues/home.html",
+		"/H/blues/js/xn.js",
+		"/H/blues/css/test.css",
+		"/H/blues/About_college.html",
+		"/G/blues/principal.html",
+		"/H/blues/sports.html",
+		"/H/blues/rti.html",
+		"/H/blues/principal.html",
+		"/H/blues/mission.html",
+		"/H/blues/MAE timetable.html",
+		"/H/blues/list of particulars.html",
+		"/H/blues/library.html",
+		"/H/blues/javascript.html",
+		"/H/blues/index2.html",
+		"/H/blues/HAS timetable.html",
+		"/H/blues/examination schedule.html",
+		"/H/blues/ECE timetable.html",
+		"/H/blues/department mae.html",
+		"/H/blues/department has.html",
+		"/H/blues/department cse.html",
+		"/H/blues/CSE timetable.html",
+		"/H/blues/contact us.html",
+		"/H/blues/canteen.html",
+		"/H/blues/admin_staff.html",
+		"/H/blues/academics.html",
+		"/H/blues/academics admission.html",
+		"/H/blues/academic calender.html",
+		"/G/blues/home.html",
+		"/G/blues/HAS timetable.html",
+		"/G/blues/examination schedule.html",
+		"/G/blues/ECE timetable.html",
+		"/G/blues/department mae.html",
+		"/G/blues/department has.html",
+		"/G/blues/department ece.html",
+		"/G/blues/department cse.html",
+		"/G/blues/CSE timetable.html",
+		"/G/blues/contact us.html",
+		"/G/blues/canteen.html",
+		"/G/blues/admin_staff.html",
+		"/G/blues/academics.html",
+		"/G/blues/academics admission.html",
+		"/G/blues/academic calender.html",
+		"/G/blues/About_college.html",
+		"/G/blues/sports.html",
+		"/G/blues/rti.html",
+		"/G/blues/mission.html",
+		"/G/blues/MAE timetable.html",
+		"/G/blues/list of particulars.html",
+		"/G/blues/library.html",
+		"/G/blues/javascript.html",
+		"/G/blues/index2.html",
+		"/C/Users/rohit/Desktop/deadlock.c",
+		"/C/TurboC++/Disk/TurboC3/BIN/COM.C"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			">\n",
+			"button",
+			"sm",
+			"a",
+			"slug",
+			"d+",
+			"id",
+			"page_requ",
+			"page",
+			"contacts",
+			"\"",
+			"d",
+			"html",
+			"HttpResponse",
+			"hello",
+			"date",
+			"True",
+			"facebook",
+			"review",
+			"span",
+			"☆",
+			"div",
+			"head",
+			"padding",
+			".",
+			"Black",
+			"pull-right",
+			"https://s32.postimg.org/lmb3xfwlh/blank.jpg",
+			"blank.jpg",
+			"rectangle",
+			">\n",
+			"this.id",
+			"this",
+			"500px",
+			" <div class=\"container-fluid nb \" >\n<div class=\" navbar navbar-inverse navbar-fixed-top\" role=\"navigation\">\n<div class=\"navbar-header\">\n<button class=\"navbar-toggle \" type=\"button\" data-toggle=\"collapse\" data-target=\"#my-target\" style=\"color:white; border:1px solid white;\">\n	<span class=\"sr-only\" >Toggle navigation</span>\n	<span class=\"glyphicon glyphicon-menu-hamburger\"></span>\n</button>\n\n	<a href=\"home.html\" class=\"navbar-brand \"><img src=\"images/logo2.png\" style=\"display:inline;\">G.B Pant Engineering College</a>\n</div>\n<div class=\"collapse navbar-collapse\" id=\"my-target\">\n	<ul class=\"nav navbar-nav navbar-right\">\n	<li class=\"active\"><a href=\"home.html\">HOME<span style=\"padding-left:3px;\" class=\"glyphicon glyphicon-home\"></span></a></li>\n	<li class=\"dropdown\">\n	<a href=\"About_college.html\" id=\"toggle\" class=\"dropdown-toggle\" data-toggle=\"\">\n		ABOUT-US	\n	</a>\n	\n	<ul class=\"dropdown-menu\">\n		<li><a href=\"About_college.html\">About college</a></li>\n		<li><a href=\"principal.html\">From principal's Desk</a></li>\n		<li><a href=\"admin_staff.html\">Admin Staff Information</a></li>\n		<li><a href=\"mission.html\">Our mission And Vision</a></li>\n	</ul>\n	</li>\n	<li class=\"dropdown\">\n	<a href=\"department%20mae.html\" id=\"toggle\" class=\"dropdown-toggle\" data-toggle=\"\">Department</a>\n		<ul class=\"dropdown-menu\">\n			<li><a href=\"department cse.html\">Computer Science (CSE)</a></li>\n			<li><a href=\"department%20ece.html\">Electronics & Communication (ECE)</a></li>\n			<li><a href=\"department%20mae.html\">Mechanical & Automation</a></li>\n			<li><a href=\"department%20has.html\">Humanities And Applied Sciences</a></li>\n\n		</ul>\n	</li>\n	<li class=\"dropdown\">\n	<a href=\"#\" id=\"toggle\" class=\"dropdown\" data-toggle=\"\">Academics</a>\n	<ul class=\"dropdown-menu text-center\">\n		<li><a href=\"academics.html\">Academic</a></li>\n		<li><a href=\"academic calender.html\">Academic calander</a></li>\n		<li><a href=\"academics admission.html\">Admission</a></li>\n		<li><a href=\"#\">Examinations</a></li>\n		<li><a href=\"#\">Results</a></li>\n		<li><a href=\"#\">Student Activities</a></li>\n		<li><a href=\"#\">technical Societies</a></li>\n	</ul>		\n	</li>\n	<li><a href=\"#\">Gallery</a></li>\n	<li><a href=\"#\">Placement</a></li>\n	<li class=\"dropdown\"><a id=\"toggle\" href=\"canteen.html\" class=\"dropdown-toggle\" data-toggle=\"\">Facilities</a>\n	\n	<ul class=\"dropdown-menu\">	\n	<li><a href=\"canteen.html\">Canteen</a></li>\n	<li><a href=\"library.html\">Library</a></li>\n	<li><a href=\"sports.html\">Sports</a></li>\n	</ul>\n	</li>\n	<li class=\"dropdown\">\n		<a href=\"MAE%20timetable.html\" id=\"toggle\" class=\"dropdown-toggle\" data-toggle=\"\">Time Table</a>\n		<ul class=\"dropdown-menu\">\n			<li><a href=\"CSE%20timetable.html\">CSE Time Table</a></li>\n			<li><a href=\"ECE%20timetable.html\">ECE Time Table</a></li>\n			<li><a href=\"MAE%20timetable.html\">MAE Time Table</a></li>\n			<li><a href=\"HAS%20timetable.html\">HAS Time Table</a></li>\n		</ul>\n	</li>\n\n	<li class=\"dropdown\">\n		<a href=\"rti.html\" id=\"toggle\" class=\"dropdown-toggle\" data-toggle=\"\">RTI</a>\n		<ul class=\"dropdown-menu\">\n			<li><a href=\"rti.html\">RTI</a></li>\n			<li><a href=\"list%20of%20particulars.html\">List of Particulars</a></li>\n		</ul>\n	</li>\n	<li><a href=\"contact%20us.html\">Contact Us</a></li>\n	</ul>\n</div>\n</div>\n</div>\n",
+			"></",
+			"bgcolor",
+			"<td colspan=\"2\">\n",
+			"<td colspan\n",
+			"<td colspan=\"2\">\n",
+			"<td colspan=2>\n",
+			">\n",
+			"<td>",
+			"VI",
+			"rowspan",
+			"CommentForm",
+			"     \n",
+			"color",
+			"a {",
+			">\n",
+			"navbar-nav",
+			"nav navbar-nav",
+			"jumbo",
+			"overflow",
+			"body",
+			"jumbo",
+			"group",
+			"gender",
+			"\",",
+			"mail",
+			"student"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"blank.jpg",
+			"this",
+			"this.id",
+			"<td align=\"center\" colspan=\"2\">",
+			"<td align=\"center\" colspan=2>",
+			"<td align=\"center\">",
+			"IV",
+			"postForm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								935,
+								908
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 933.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/post_detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4307,
+								4200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "post/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/post_form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1569,
+								1569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 424.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "blog/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1095,
+								1095
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "post/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "post/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								731,
+								731
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "post/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

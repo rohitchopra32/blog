@@ -1,0 +1,78 @@
+{% if messages %}
+	<ul class="messages">
+	{% for message in messages %}
+	<li{% if message.tags %} class="{{ message.tags }}" {% endif %}> {{message}}</li>
+	{% endfor%}
+	</ul>
+	{% endif %}
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ProBlogger</title>    
+    <link href="{% static 'static/bootstrap.min.css' %}" rel="stylesheet">    
+    <link href="{% static 'static/blog.css' %}" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="blog-nav">
+          <a class="blog-nav-item active" href="/">Home</a>
+          <a class="blog-nav-item" href="/blog/">Blog</a>
+          <a class="blog-nav-item" href="/blog/archives">Archives</a>
+          <a class="blog-nav-item" href="/blog/latestnews/">Latest News</a>
+          <a class="blog-nav-item" href="/blog/about/">About</a>
+        </nav>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="blog-header">
+        <h1 class="blog-title">ProBlogger</h1>
+        
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+        	{% block content%}
+          <div class="blog-post">
+            <h2 class="blog-post-title"> </h2>
+            <p class="blog-post-meta"></p>
+			<a href="/blog/{{post.id}}">{{ instance.title }}</a>
+			<div class ="post_meta">
+				on {{ instance.timestamp }} by {{instance.author}}
+				<a href=""> edit</a>
+			</div>
+
+			<div class ="post_body">
+				{{ instance.content|safe|linebreaks}}
+			</div>
+
+			{% endblock %}            
+			</div>
+
+        </div><!-- /.blog-main -->
+
+        
+      </div><!-- /.row -->
+
+    </div><!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>&copy2015 ProBlogger built on <a href="">Django</a> by <a href="https://github.com/rohitchopra32">@Rohit Chopra</a>.</p>
+      <p>
+        <a href="#">Back to top</a>
+      </p>
+    </footer>
+
+
+    <script src="{% static 'static/jquery.min.js' %}"></script>
+    <script src="{% static 'static/bootstrap.min.js' %}"></script>  
+
+</body></html>

@@ -1,0 +1,103 @@
+
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ProBlogger</title>    
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/css/blog.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="blog-nav">
+          <a class="blog-nav-item active" href="/post">Home</a>
+          <a class="blog-nav-item" href="/post/create/">Write A Blog</a>
+        </nav>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="blog-header">
+        <h1 class="blog-title">ProBlogger</h1>
+        
+      </div>
+
+      <div class="row">
+        {% block content%}
+        <div class="col-sm-8 blog-main">
+        <div class="thumbnail">
+          {% if instance.image %}
+        	<img src="{{ instance.image.url }}" class="img-responsive"/>
+          {% endif %}
+          </div>
+          <div class="blog-post">
+            <h2 class="blog-post-title"> </h2>
+            <p class="blog-post-meta"></p>
+			<a href="/blog/{{post.id}}">{{ instance.title }}</a>
+			<div class ="post_meta">
+				{{ instance.timestamp|timesince }} ago by {{instance.author}}
+        <div class="pull-right">
+          <a  class="btn btn-primary btn-sm" href="{% url 'post:update' id=instance.id %}">Edit</a>
+          <a href="#" class="btn btn-primary btn-large confirModal" data-confirm-title="Confirm modal title example" data-confirm-message="Do you want to perform this action ?">Launch demo confirm modal</a>
+        </div>
+        
+			<br>
+      <p>
+      <div class="fb-like" data-href="{{ request.build_absolute_url}}" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div></p>
+      </div>
+
+      </div>
+<br>
+			<div class ="post_body">
+				{{ instance.content|safe|linebreaks}}
+			</div>
+
+
+        </div><!-- /.blog-main -->
+        <div class="fb-comments" data-href="{{ request.build_absolute_url}}" data-numposts="5"></div>
+        {% endblock %}            
+        <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+      </div><!-- /.row -->
+
+    </div><!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>&copy2015 ProBlogger built on <a href="">Django</a> by <a href="https://github.com/rohitchopra32">@Rohit Chopra</a>.</p>
+      <p>
+        <a href="#">Back to top</a>
+      </p>
+    </footer>
+
+
+    <script src="{% static 'static/js/jquery.min.js' %}"></script>
+    <script src="{% static 'static/js/bootstrap.min.js' %}"></script>  
+
+</body></html>
